@@ -1,10 +1,10 @@
 <style lang="scss">
-  @import 'styles/common.scss';
- 
+  @import '../styles/app.scss';
 </style>
 <template>
-  <div>
-    <router-view></router-view>
+  <div id="index">
+    index page
+    vvvvv
   </div>
 </template>
 
@@ -12,7 +12,8 @@
 
 
 export default {
-  name: 'app'
+  name: 'index',
+  
 }
 </script>
 
