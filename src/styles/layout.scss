@@ -1,0 +1,23 @@
+.top-bar {
+	height: 80px;
+	line-height: 80px;
+	background-color: #39f;
+	color: #fff;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.middle {
+	margin-top: 80px;
+	background: gray;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0;
+	background-color: #39f;
+	color: #fff;
+	width: 100%;
+	text-align: center;
+}
