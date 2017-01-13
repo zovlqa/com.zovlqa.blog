@@ -5,6 +5,15 @@ import App from './App';
 import router from './router';
 import store from './store';
 
+import Icon from 'vue-svg-icon/Icon.vue';
+Vue.component('icon', Icon);
+Icon.inject('Category');
+Icon.inject('login');
+Icon.inject('sign');
+Icon.inject('注册');
+
+
+
 import * as filters from './filters/currency';
 
 
