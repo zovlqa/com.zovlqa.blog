@@ -11,7 +11,7 @@ export default new Router({
 		y:0
 	}),
 	routes: [
-		{ path: '/', component: resolve => require(['../views/index.vue'], resolve) },
+		{ path: '/', component: resolve => require(['../components/layouts/app.main.layout.vue'], resolve) },
 		{ path: '/about', component: resolve => require(['../views/about.vue'], resolve) },
 		{ path: '/shopping', component: resolve => require(['../views/shopping.vue'], resolve) },
 		{ path: '/layout', component: resolve => require(['../components/layouts/app.main.layout.vue'], resolve) },

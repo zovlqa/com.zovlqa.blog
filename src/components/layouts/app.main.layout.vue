@@ -30,7 +30,7 @@
     <div class="middle">
       <ul>
         <li>
-          <img src="../../assets/images/43a7d933c895d143bf16062771f082025aaf0755.jpg"   alt="">
+          <img src="../../assets/images/0b46f21fbe096b63e0aa455a0e338744ebf8ac0c.jpg"   alt="">
           <div>
               <h2>Laravel 5.4: 基于 JSON 的语言文件</h2>
               <p>我们在 Laravel 收到的最多的请求之一是为多语言 Web 应用程序提供更好的支持，虽然已经存在为 Laravel 添加一些不错的功能的包去更好地处理 多语言项目 需求，但是构建这样的应用程序时还是会有些令人头疼的问题，例如管理翻译的键值对格式的 PHP 文件。</p>
